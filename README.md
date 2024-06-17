@@ -12,3 +12,5 @@ The input and output data used during the process are stored on a Mega.nz accoun
 [https://mega.nz/C!OBVVFQzL](https://mega.nz/C!OBVVFQzL)
 
 If the data is moved elsewhere, the link will be updated in this README.
+
+You can contact the author here if needed : nicolas.tilkens@junia.com

@@ -9,7 +9,7 @@ This repository contains MATLAB code used for the article "Quantification of gra
 
 The input and output data used during the process are stored on a Mega.nz account. You can access the data through the following link:
 
-[[https://mega.nz/C!OBVVFQzL](https://mega.nz/C!OBVVFQzL)](https://mega.nz/folder/iUNWkAhK#_ooP6MLrmLeaCJFdFRMtXg)
+https://mega.nz/folder/iUNWkAhK#_ooP6MLrmLeaCJFdFRMtXg
 
 If the data is moved elsewhere, the link will be updated in this README.
 
